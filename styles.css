@@ -55,6 +55,10 @@ table {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
+a {
+    color: #142B3D;
+}
+
 h4 {
     font-size: 24px;
     padding-bottom: 30px;
